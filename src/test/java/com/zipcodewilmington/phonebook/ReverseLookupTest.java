@@ -18,6 +18,7 @@ public class ReverseLookupTest {
 
         // then
         Assert.assertEquals(expectedName, actualName);
+
     }
 
     @Test
